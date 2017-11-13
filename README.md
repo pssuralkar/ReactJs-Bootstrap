@@ -1,7 +1,7 @@
 
 Pankaj Suralkar
 
-Website: hhtp:pankajsuralkar.in
+Website: http:pankajsuralkar.in
 
 Created Syntel UI Test using react, webpack, babel, es2015 & sass.
 
